@@ -1,0 +1,8 @@
+GPIO_program.c:16:4:MGPIO_u8SetPinMode	24	static
+GPIO_program.c:74:4:MGPIO_u8SetPinValue	24	static
+GPIO_program.c:123:4:MGPIO_u8GetPinValue	24	static
+GPIO_program.c:142:4:MGPIO_u8WritePinAccess	24	static
+GPIO_program.c:192:4:MGPIO_u8SetPortMode8_Pin	24	static
+GPIO_program.c:274:4:MGPIO_u8SetPortValue8_Pin	24	static
+GPIO_program.c:324:4:MGPIO_u8SetPortMode4_Pin	24	static
+GPIO_program.c:444:4:MGPIO_u8SetPortValue4_Pin	24	static
